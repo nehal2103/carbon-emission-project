@@ -1,0 +1,12 @@
+[
+  "tests/test_classifier.py::test_feature_extraction",
+  "tests/test_classifier.py::test_safety_guard_slack_override",
+  "tests/test_classifier.py::test_single_job_prediction",
+  "tests/test_classifier.py::test_workload_generation_schema",
+  "tests/test_emissions.py::test_energy_invariance",
+  "tests/test_emissions.py::test_partial_hour_continuous_integration",
+  "tests/test_emissions.py::test_sub_hour_single_slot",
+  "tests/test_scheduler.py::test_deadline_compliance",
+  "tests/test_scheduler.py::test_non_urgent_jobs_delay_and_carbon_savings",
+  "tests/test_scheduler.py::test_urgent_jobs_zero_delay"
+]

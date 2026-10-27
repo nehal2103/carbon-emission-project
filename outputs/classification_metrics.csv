@@ -1,0 +1,4 @@
+model,threshold,accuracy,precision,recall,f1_score,roc_auc,true_negatives,false_positives,false_negatives,true_positives,false_negative_rate
+Logistic Regression (Default 0.5),0.5,0.9296,0.8364,0.9553,0.8919,0.9841,799,71,17,363,0.0447
+Random Forest (Default 0.5),0.5,0.932,0.8642,0.9211,0.8917,0.9849,815,55,30,350,0.0789
+Random Forest (Threshold 0.20),0.2,0.8704,0.7049,0.9868,0.8224,0.9849,713,157,5,375,0.0132

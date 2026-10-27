@@ -1,0 +1,4 @@
+Strategy,Total Jobs,Total Energy (kWh),Total Emissions (kg CO2),Carbon Reduction (%),Average Job Delay (hours),Maximum Job Delay (hours),Urgent Jobs Delayed,Urgent Jobs Delayed (%),Avg Delay of Urgent Jobs (hours),Max Delay of Urgent Jobs (hours),Deadline Violations,SLA Violations
+As-Run Baseline,5000,68162.6,26948.44,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0
+True Labels (Oracle),5000,68162.6,23736.35,11.92,2.774,12.0,0,0.0,0.0,0.0,0,59
+Predicted Labels (ML-Driven),5000,68162.6,23841.51,11.53,2.566,12.0,3,0.19,5.152,5.5,0,11
